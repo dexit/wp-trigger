@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Trigger
+Plugin Name: WP Trigger Hook
 Plugin URI: https://github.com/joerivanveen/wp-trigger
 Description: Triggers the hook supplied in querystring, e.g. ?hook=woocommerce_payment_complete&order_id=300 hook MUST be the first query var, other vars are also in the order received by the hook.
 Version: 1.0.0
